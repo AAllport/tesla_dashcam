@@ -29,6 +29,7 @@ REQUIRED = [  # type: ignore
     "psutil",
     "python-dateutil",
     "staticmap",
+    'win11toast; platform_system=="Windows"',
 ]
 
 # The rest you shouldn't have to touch too much :)
